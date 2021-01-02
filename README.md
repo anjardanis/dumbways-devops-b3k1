@@ -8,3 +8,4 @@
    + Nomor 5 : https://www.progresstech.co.id/blog/jenis-cloud/
    + Nomor 6 : https://epsagon.com/tools/prometheus-and-grafana-the-perfect-combo/
    + Nomor 7 : https://www.hostinger.co.id/tutorial/nginx-reverse-proxy/
+   + Nomor 8 : https://www.server-world.info/en/note?os=Ubuntu_18.04&p=nginx&f=1
